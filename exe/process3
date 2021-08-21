@@ -1,0 +1,14 @@
+.stack
+stackSize = 24
+
+.code
+sti 0, 6
+sti 4, 0
+sti 8, 0
+
+lda 0
+addi 3
+sta 8
+intr 5, 8
+
+halt
