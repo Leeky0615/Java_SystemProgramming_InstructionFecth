@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="FlatSwing">
     <CLASSES>
-      <root url="jar://N:/. Personal_folder/library/FlatSwing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/library/FlatSwing.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
